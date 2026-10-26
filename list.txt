@@ -22,7 +22,7 @@ www.youtube.com##ytd-guide-entry-renderer:has(.ytd-guide-entry-renderer[title="S
 www.youtube.com##ytd-mini-guide-entry-renderer:has(.ytd-mini-guide-entry-renderer[title="Shorts"])
 
 ! Hide shorts tab on channel pages
-www.youtube.com##yt-tab-shape[tab-title="Shorts"]
+! www.youtube.com##yt-tab-shape[tab-title="Shorts"]
 
 ! Hide shorts filter/category on top of homepage and search pages
 www.youtube.com##yt-chip-cloud-chip-renderer:has(.ytChipShapeInactive:has-text(/^Shorts$/i))
